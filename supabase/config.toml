@@ -1,0 +1,11 @@
+project_id = "lumora-commerce"
+
+# These endpoints authenticate requests internally (email+order number or provider signature/secret).
+[functions.track-order]
+verify_jwt = false
+
+[functions.razorpay-webhook]
+verify_jwt = false
+
+[functions.shiprocket-webhook]
+verify_jwt = false

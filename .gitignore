@@ -1,0 +1,14 @@
+node_modules\ndist\n.env\n.env.local\n
+@"
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+!.env.sample
+.vercel/
+.DS_Store
+Thumbs.db
+"@ | Set-Content .gitignore
+
+.txt
