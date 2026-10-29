@@ -1,0 +1,168 @@
+diff --git a/mnt/data/umbre-patch-v2/public/product-images/lamp-21-espresso.svg b/mnt/data/umbre-patch-v2/public/product-images/lamp-21-espresso.svg
+new file mode 100644
+index 0000000..879c0c8
+--- /dev/null
++++ b/mnt/data/umbre-patch-v2/public/product-images/lamp-21-espresso.svg
+@@ -0,0 +1,6 @@
++<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="The Nook Espresso colour concept">
++<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eee4d6"/><stop offset="1" stop-color="#cfc0ae"/></linearGradient><linearGradient id="body" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#47372f"/><stop offset="1" stop-color="#201c18" stop-opacity=".22"/></linearGradient><linearGradient id="head" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#49372f"/><stop offset="1" stop-color="#201c18" stop-opacity=".22"/></linearGradient><radialGradient id="glow"><stop stop-color="#ffd58b" stop-opacity=".7"/><stop offset="1" stop-color="#ffd58b" stop-opacity="0"/></radialGradient></defs>
++<rect width="800" height="1000" fill="url(#bg)"/><ellipse cx="405" cy="760" rx="240" ry="140" fill="url(#glow)"/><path d="M0 820H800V1000H0Z" fill="#d8c7b2"/><ellipse cx="405" cy="820" rx="180" ry="22" fill="#4c4034" opacity=".2"/>
++<rect x="305" y="310" width="205" height="510" fill="url(#body)"/><path d="M305 438H510M305 566H510M305 694H510" stroke="#1c251f" stroke-opacity=".3" stroke-width="3"/>
++<g transform="rotate(-12 430 300)"><path d="M350 170H535L580 230V345L535 395H350L315 345V230Z" fill="url(#head)"/><path d="M345 300H540L560 350L520 385H325Z" fill="#fff0d0" stroke="#f6e4bf" stroke-width="4"/></g>
++<text x="42" y="65" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#43382e">UMBRE STUDIO</text><text x="42" y="925" font-family="Georgia,serif" font-size="40" fill="#342b23">The Nook</text><text x="42" y="964" font-family="Arial,sans-serif" font-size="16" letter-spacing="2" fill="#5b5045">ESPRESSO · COLOUR CONCEPT</text></svg>
+\ No newline at end of file
+diff --git a/mnt/data/umbre-patch-v2/public/product-images/lamp-21-ivory-terracotta.svg b/mnt/data/umbre-patch-v2/public/product-images/lamp-21-ivory-terracotta.svg
+new file mode 100644
+index 0000000..56e6297
+--- /dev/null
++++ b/mnt/data/umbre-patch-v2/public/product-images/lamp-21-ivory-terracotta.svg
+@@ -0,0 +1,6 @@
++<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="The Nook Ivory + Terracotta colour concept">
++<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eee4d6"/><stop offset="1" stop-color="#cfc0ae"/></linearGradient><linearGradient id="body" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e9dfcf"/><stop offset="1" stop-color="#201c18" stop-opacity=".22"/></linearGradient><linearGradient id="head" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b9532d"/><stop offset="1" stop-color="#201c18" stop-opacity=".22"/></linearGradient><radialGradient id="glow"><stop stop-color="#ffd58b" stop-opacity=".7"/><stop offset="1" stop-color="#ffd58b" stop-opacity="0"/></radialGradient></defs>
++<rect width="800" height="1000" fill="url(#bg)"/><ellipse cx="405" cy="760" rx="240" ry="140" fill="url(#glow)"/><path d="M0 820H800V1000H0Z" fill="#d8c7b2"/><ellipse cx="405" cy="820" rx="180" ry="22" fill="#4c4034" opacity=".2"/>
++<rect x="305" y="310" width="205" height="510" fill="url(#body)"/><path d="M305 438H510M305 566H510M305 694H510" stroke="#1c251f" stroke-opacity=".3" stroke-width="3"/>
++<g transform="rotate(-12 430 300)"><path d="M350 170H535L580 230V345L535 395H350L315 345V230Z" fill="url(#head)"/><path d="M345 300H540L560 350L520 385H325Z" fill="#fff0d0" stroke="#f6e4bf" stroke-width="4"/></g>
++<text x="42" y="65" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#43382e">UMBRE STUDIO</text><text x="42" y="925" font-family="Georgia,serif" font-size="40" fill="#342b23">The Nook</text><text x="42" y="964" font-family="Arial,sans-serif" font-size="16" letter-spacing="2" fill="#5b5045">IVORY + TERRACOTTA · COLOUR CONCEPT</text></svg>
+\ No newline at end of file
+diff --git a/mnt/data/umbre-patch-v2/public/product-images/lamp-21-sage.svg b/mnt/data/umbre-patch-v2/public/product-images/lamp-21-sage.svg
+new file mode 100644
+index 0000000..ab75ad4
+--- /dev/null
++++ b/mnt/data/umbre-patch-v2/public/product-images/lamp-21-sage.svg
+@@ -0,0 +1,6 @@
++<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="The Nook Sage Green colour concept">
++<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eee4d6"/><stop offset="1" stop-color="#cfc0ae"/></linearGradient><linearGradient id="body" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6e9678"/><stop offset="1" stop-color="#201c18" stop-opacity=".22"/></linearGradient><linearGradient id="head" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#304d3d"/><stop offset="1" stop-color="#201c18" stop-opacity=".22"/></linearGradient><radialGradient id="glow"><stop stop-color="#ffd58b" stop-opacity=".7"/><stop offset="1" stop-color="#ffd58b" stop-opacity="0"/></radialGradient></defs>
++<rect width="800" height="1000" fill="url(#bg)"/><ellipse cx="405" cy="760" rx="240" ry="140" fill="url(#glow)"/><path d="M0 820H800V1000H0Z" fill="#d8c7b2"/><ellipse cx="405" cy="820" rx="180" ry="22" fill="#4c4034" opacity=".2"/>
++<rect x="305" y="310" width="205" height="510" fill="url(#body)"/><path d="M305 438H510M305 566H510M305 694H510" stroke="#1c251f" stroke-opacity=".3" stroke-width="3"/>
++<g transform="rotate(-12 430 300)"><path d="M350 170H535L580 230V345L535 395H350L315 345V230Z" fill="url(#head)"/><path d="M345 300H540L560 350L520 385H325Z" fill="#fff0d0" stroke="#f6e4bf" stroke-width="4"/></g>
++<text x="42" y="65" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#43382e">UMBRE STUDIO</text><text x="42" y="925" font-family="Georgia,serif" font-size="40" fill="#342b23">The Nook</text><text x="42" y="964" font-family="Arial,sans-serif" font-size="16" letter-spacing="2" fill="#5b5045">SAGE GREEN · COLOUR CONCEPT</text></svg>
+\ No newline at end of file
+diff --git a/mnt/data/umbre-patch-v2/public/product-images/lamp-21-sand.svg b/mnt/data/umbre-patch-v2/public/product-images/lamp-21-sand.svg
+new file mode 100644
+index 0000000..764c4d3
+--- /dev/null
++++ b/mnt/data/umbre-patch-v2/public/product-images/lamp-21-sand.svg
+@@ -0,0 +1,6 @@
++<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="The Nook Sand colour concept">
++<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eee4d6"/><stop offset="1" stop-color="#cfc0ae"/></linearGradient><linearGradient id="body" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#cdb99d"/><stop offset="1" stop-color="#201c18" stop-opacity=".22"/></linearGradient><linearGradient id="head" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#bda07c"/><stop offset="1" stop-color="#201c18" stop-opacity=".22"/></linearGradient><radialGradient id="glow"><stop stop-color="#ffd58b" stop-opacity=".7"/><stop offset="1" stop-color="#ffd58b" stop-opacity="0"/></radialGradient></defs>
++<rect width="800" height="1000" fill="url(#bg)"/><ellipse cx="405" cy="760" rx="240" ry="140" fill="url(#glow)"/><path d="M0 820H800V1000H0Z" fill="#d8c7b2"/><ellipse cx="405" cy="820" rx="180" ry="22" fill="#4c4034" opacity=".2"/>
++<rect x="305" y="310" width="205" height="510" fill="url(#body)"/><path d="M305 438H510M305 566H510M305 694H510" stroke="#1c251f" stroke-opacity=".3" stroke-width="3"/>
++<g transform="rotate(-12 430 300)"><path d="M350 170H535L580 230V345L535 395H350L315 345V230Z" fill="url(#head)"/><path d="M345 300H540L560 350L520 385H325Z" fill="#fff0d0" stroke="#f6e4bf" stroke-width="4"/></g>
++<text x="42" y="65" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#43382e">UMBRE STUDIO</text><text x="42" y="925" font-family="Georgia,serif" font-size="40" fill="#342b23">The Nook</text><text x="42" y="964" font-family="Arial,sans-serif" font-size="16" letter-spacing="2" fill="#5b5045">SAND · COLOUR CONCEPT</text></svg>
+\ No newline at end of file
+diff --git a/mnt/data/umbre-patch-v2/public/product-images/lamp-22-espresso.svg b/mnt/data/umbre-patch-v2/public/product-images/lamp-22-espresso.svg
+new file mode 100644
+index 0000000..14e522f
+--- /dev/null
++++ b/mnt/data/umbre-patch-v2/public/product-images/lamp-22-espresso.svg
+@@ -0,0 +1,6 @@
++<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="The Little Sentinel Espresso colour concept">
++<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eee4d6"/><stop offset="1" stop-color="#cfc0ae"/></linearGradient><linearGradient id="body" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#49372f"/><stop offset="1" stop-color="#201c18" stop-opacity=".22"/></linearGradient><linearGradient id="head" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#49372f"/><stop offset="1" stop-color="#201c18" stop-opacity=".22"/></linearGradient><radialGradient id="glow"><stop stop-color="#ffd58b" stop-opacity=".7"/><stop offset="1" stop-color="#ffd58b" stop-opacity="0"/></radialGradient></defs>
++<rect width="800" height="1000" fill="url(#bg)"/><ellipse cx="405" cy="760" rx="240" ry="140" fill="url(#glow)"/><path d="M0 820H800V1000H0Z" fill="#d8c7b2"/><ellipse cx="405" cy="820" rx="180" ry="22" fill="#4c4034" opacity=".2"/>
++<rect x="305" y="310" width="205" height="510" fill="url(#body)"/><path d="M305 438H510M305 566H510M305 694H510" stroke="#1c251f" stroke-opacity=".3" stroke-width="3"/>
++<g transform="rotate(-12 430 300)"><path d="M350 170H535L580 230V345L535 395H350L315 345V230Z" fill="url(#head)"/><path d="M345 300H540L560 350L520 385H325Z" fill="#fff0d0" stroke="#f6e4bf" stroke-width="4"/></g>
++<text x="42" y="65" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#43382e">UMBRE STUDIO</text><text x="42" y="925" font-family="Georgia,serif" font-size="40" fill="#342b23">The Little Sentinel</text><text x="42" y="964" font-family="Arial,sans-serif" font-size="16" letter-spacing="2" fill="#5b5045">ESPRESSO · COLOUR CONCEPT</text></svg>
+\ No newline at end of file
+diff --git a/mnt/data/umbre-patch-v2/public/product-images/lamp-22-ivory.svg b/mnt/data/umbre-patch-v2/public/product-images/lamp-22-ivory.svg
+new file mode 100644
+index 0000000..49adc27
+--- /dev/null
++++ b/mnt/data/umbre-patch-v2/public/product-images/lamp-22-ivory.svg
+@@ -0,0 +1,6 @@
++<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="The Little Sentinel Ivory colour concept">
++<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eee4d6"/><stop offset="1" stop-color="#cfc0ae"/></linearGradient><linearGradient id="body" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e9dfcf"/><stop offset="1" stop-color="#201c18" stop-opacity=".22"/></linearGradient><linearGradient id="head" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9c8b1"/><stop offset="1" stop-color="#201c18" stop-opacity=".22"/></linearGradient><radialGradient id="glow"><stop stop-color="#ffd58b" stop-opacity=".7"/><stop offset="1" stop-color="#ffd58b" stop-opacity="0"/></radialGradient></defs>
++<rect width="800" height="1000" fill="url(#bg)"/><ellipse cx="405" cy="760" rx="240" ry="140" fill="url(#glow)"/><path d="M0 820H800V1000H0Z" fill="#d8c7b2"/><ellipse cx="405" cy="820" rx="180" ry="22" fill="#4c4034" opacity=".2"/>
++<rect x="305" y="310" width="205" height="510" fill="url(#body)"/><path d="M305 438H510M305 566H510M305 694H510" stroke="#1c251f" stroke-opacity=".3" stroke-width="3"/>
++<g transform="rotate(-12 430 300)"><path d="M350 170H535L580 230V345L535 395H350L315 345V230Z" fill="url(#head)"/><path d="M345 300H540L560 350L520 385H325Z" fill="#fff0d0" stroke="#f6e4bf" stroke-width="4"/></g>
++<text x="42" y="65" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#43382e">UMBRE STUDIO</text><text x="42" y="925" font-family="Georgia,serif" font-size="40" fill="#342b23">The Little Sentinel</text><text x="42" y="964" font-family="Arial,sans-serif" font-size="16" letter-spacing="2" fill="#5b5045">IVORY · COLOUR CONCEPT</text></svg>
+\ No newline at end of file
+diff --git a/mnt/data/umbre-patch-v2/public/product-images/lamp-22-sage.svg b/mnt/data/umbre-patch-v2/public/product-images/lamp-22-sage.svg
+new file mode 100644
+index 0000000..2421800
+--- /dev/null
++++ b/mnt/data/umbre-patch-v2/public/product-images/lamp-22-sage.svg
+@@ -0,0 +1,6 @@
++<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="The Little Sentinel Sage colour concept">
++<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eee4d6"/><stop offset="1" stop-color="#cfc0ae"/></linearGradient><linearGradient id="body" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6e9678"/><stop offset="1" stop-color="#201c18" stop-opacity=".22"/></linearGradient><linearGradient id="head" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#304d3d"/><stop offset="1" stop-color="#201c18" stop-opacity=".22"/></linearGradient><radialGradient id="glow"><stop stop-color="#ffd58b" stop-opacity=".7"/><stop offset="1" stop-color="#ffd58b" stop-opacity="0"/></radialGradient></defs>
++<rect width="800" height="1000" fill="url(#bg)"/><ellipse cx="405" cy="760" rx="240" ry="140" fill="url(#glow)"/><path d="M0 820H800V1000H0Z" fill="#d8c7b2"/><ellipse cx="405" cy="820" rx="180" ry="22" fill="#4c4034" opacity=".2"/>
++<rect x="305" y="310" width="205" height="510" fill="url(#body)"/><path d="M305 438H510M305 566H510M305 694H510" stroke="#1c251f" stroke-opacity=".3" stroke-width="3"/>
++<g transform="rotate(-12 430 300)"><path d="M350 170H535L580 230V345L535 395H350L315 345V230Z" fill="url(#head)"/><path d="M345 300H540L560 350L520 385H325Z" fill="#fff0d0" stroke="#f6e4bf" stroke-width="4"/></g>
++<text x="42" y="65" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#43382e">UMBRE STUDIO</text><text x="42" y="925" font-family="Georgia,serif" font-size="40" fill="#342b23">The Little Sentinel</text><text x="42" y="964" font-family="Arial,sans-serif" font-size="16" letter-spacing="2" fill="#5b5045">SAGE · COLOUR CONCEPT</text></svg>
+\ No newline at end of file
+diff --git a/mnt/data/umbre-patch-v2/public/product-images/lamp-22-terracotta.svg b/mnt/data/umbre-patch-v2/public/product-images/lamp-22-terracotta.svg
+new file mode 100644
+index 0000000..a1086d9
+--- /dev/null
++++ b/mnt/data/umbre-patch-v2/public/product-images/lamp-22-terracotta.svg
+@@ -0,0 +1,6 @@
++<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="The Little Sentinel Terracotta colour concept">
++<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eee4d6"/><stop offset="1" stop-color="#cfc0ae"/></linearGradient><linearGradient id="body" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#b9532d"/><stop offset="1" stop-color="#201c18" stop-opacity=".22"/></linearGradient><linearGradient id="head" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b9532d"/><stop offset="1" stop-color="#201c18" stop-opacity=".22"/></linearGradient><radialGradient id="glow"><stop stop-color="#ffd58b" stop-opacity=".7"/><stop offset="1" stop-color="#ffd58b" stop-opacity="0"/></radialGradient></defs>
++<rect width="800" height="1000" fill="url(#bg)"/><ellipse cx="405" cy="760" rx="240" ry="140" fill="url(#glow)"/><path d="M0 820H800V1000H0Z" fill="#d8c7b2"/><ellipse cx="405" cy="820" rx="180" ry="22" fill="#4c4034" opacity=".2"/>
++<rect x="305" y="310" width="205" height="510" fill="url(#body)"/><path d="M305 438H510M305 566H510M305 694H510" stroke="#1c251f" stroke-opacity=".3" stroke-width="3"/>
++<g transform="rotate(-12 430 300)"><path d="M350 170H535L580 230V345L535 395H350L315 345V230Z" fill="url(#head)"/><path d="M345 300H540L560 350L520 385H325Z" fill="#fff0d0" stroke="#f6e4bf" stroke-width="4"/></g>
++<text x="42" y="65" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#43382e">UMBRE STUDIO</text><text x="42" y="925" font-family="Georgia,serif" font-size="40" fill="#342b23">The Little Sentinel</text><text x="42" y="964" font-family="Arial,sans-serif" font-size="16" letter-spacing="2" fill="#5b5045">TERRACOTTA · COLOUR CONCEPT</text></svg>
+\ No newline at end of file
+diff --git a/src/catalog.js b/src/catalog.js
+index 647ed2d..44bf762 100644
+--- a/src/catalog.js
++++ b/src/catalog.js
+@@ -190,10 +190,10 @@
+ // placeholder
+ // placeholder
+ // placeholder
+-  'Ivory + Terracotta':[{src:"/product-images/lamp-21-hero.webp",alt:"The Nook in ivory and terracotta concept"}],
+-  'Espresso':[{src:"/product-images/lamp-21-hero.webp",alt:"The Nook espresso colour concept"}],
+-  'Sage Green':[{src:"/product-images/lamp-21-hero.webp",alt:"The Nook sage green colour concept"}],
+-  'Sand':[{src:"/product-images/lamp-21-hero.webp",alt:"The Nook sand colour concept"}]
++  'Ivory + Terracotta':[{src:"/product-images/lamp-21-ivory-terracotta.svg",alt:"The Nook in ivory and terracotta concept"}],
++  'Espresso':[{src:"/product-images/lamp-21-espresso.svg",alt:"The Nook espresso colour concept"}],
++  'Sage Green':[{src:"/product-images/lamp-21-sage.svg",alt:"The Nook sage green colour concept"}],
++  'Sand':[{src:"/product-images/lamp-21-sand.svg",alt:"The Nook sand colour concept"}]
+ // placeholder
+ // placeholder
+ // placeholder
+@@ -204,10 +204,10 @@
+ // placeholder
+ // placeholder
+ // placeholder
+-  'Espresso':[{src:"/product-images/lamp-22-hero.png",alt:"The Little Sentinel espresso colour concept"}],
+-  'Terracotta':[{src:"/product-images/lamp-22-hero.png",alt:"The Little Sentinel terracotta colour concept"}],
+-  'Ivory':[{src:"/product-images/lamp-22-hero.png",alt:"The Little Sentinel ivory colour concept"}],
+-  'Sage':[{src:"/product-images/lamp-22-hero.png",alt:"The Little Sentinel sage colour concept"}]
++  'Espresso':[{src:"/product-images/lamp-22-espresso.svg",alt:"The Little Sentinel espresso colour concept"}],
++  'Terracotta':[{src:"/product-images/lamp-22-terracotta.svg",alt:"The Little Sentinel terracotta colour concept"}],
++  'Ivory':[{src:"/product-images/lamp-22-ivory.svg",alt:"The Little Sentinel ivory colour concept"}],
++  'Sage':[{src:"/product-images/lamp-22-sage.svg",alt:"The Little Sentinel sage colour concept"}]
+ // placeholder
+ // placeholder
+ // placeholder
+diff --git a/src/main.jsx b/src/main.jsx
+index 6dd260e..c34a8f2 100644
+--- a/src/main.jsx
++++ b/src/main.jsx
+@@ -5,14 +5,14 @@
+ // placeholder
+ // placeholder
+ // placeholder
+-function ProductCard({p}){const{favs,setFavs,add}=useStore();return <article className="product-card"><Link to={'/product/'+p.slug} className="product-image" style={{backgroundImage:`linear-gradient(0deg,rgba(17,18,16,.08),transparent 50%),url(\"${p.image}\")`}}>{p.tag&&<span className="product-tag">{p.tag}</span>}</Link><button className={'favorite '+(favs.includes(p.id)?'saved':'')} onClick={()=>setFavs(a=>a.includes(p.id)?a.filter(x=>x!==p.id):[...a,p.id])} aria-label="Wishlist"><Heart size={17} fill={favs.includes(p.id)?'currentColor':'none'}/></button><button className="quick-add" onClick={()=>add(p,p.colors[0])}>Quick add <Plus size={14}/></button><div className="product-meta"><Link to={'/product/'+p.slug} className="product-name">{p.name}</Link><span>{money(p.price)}</span></div><div className="product-sub"><span>{p.category}</span><div className="swatches">{p.colors.slice(0,3).map((c,i)=><button title={'Add '+c} aria-label={'Add '+c} key={c} className={'swatch swatch-'+i} onClick={()=>add(p,c)}/>)}</div></div></article>}
++function ProductCard({p}){const{favs,setFavs,add}=useStore();return <article className="product-card"><Link to={'/product/'+p.slug} className="product-image" style={{backgroundImage:`linear-gradient(0deg,rgba(17,18,16,.08),transparent 50%),url(\"${p.image}\")`}}>{p.tag&&<span className="product-tag">{p.tag}</span>}</Link><button className={'favorite '+(favs.includes(p.id)?'saved':'')} onClick={()=>setFavs(a=>a.includes(p.id)?a.filter(x=>x!==p.id):[...a,p.id])} aria-label="Wishlist"><Heart size={17} fill={favs.includes(p.id)?'currentColor':'none'}/></button>{!p.prototypeOnly&&<button className="quick-add" onClick={()=>add(p,p.colors[0])}>Quick add <Plus size={14}/></button>}<div className="product-meta"><Link to={'/product/'+p.slug} className="product-name">{p.name}</Link><span>{money(p.price)}</span></div><div className="product-sub"><span>{p.category}</span><div className="swatches">{p.colors.slice(0,3).map((c,i)=><button title={'Add '+c} aria-label={'Add '+c} key={c} className={'swatch swatch-'+i} onClick={()=>add(p,c)}/>)}</div></div></article>}
+ function PromiseStrip(){return <section className="promise-strip"><div><Leaf/><p><b>Thoughtful materials</b><span>Material choices with care</span></p></div><div><Sparkles/><p><b>Distinctive design</b><span>Made to stand apart</span></p></div><div><RotateCcw/><p><b>Printed to order</b><span>Made when you choose</span></p></div><div><Truck/><p><b>Shipping across India</b><span>Tracked delivery</span></p></div><div><ShieldCheck/><p><b>Made for everyday</b><span>Support when you need it</span></p></div></section>}
+ // placeholder
+ // placeholder
+ // placeholder
+ // placeholder
+ // placeholder
+- const gallery=p.gallery||[{src:p.image,alt:p.name}];
++ const gallery=p.variantImages?.[color]||p.gallery||[{src:p.image,alt:p.name}];
+  const related=products.filter(x=>x.category===p.category&&x.id!==p.id).slice(0,4);
+ // placeholder
+ // placeholder
+@@ -35,7 +35,7 @@ function PromiseStrip(){return <section className="promise-strip"><div><Leaf/><p
+ // placeholder
+ // placeholder
+ // placeholder
+-    <div className="buy-actions"><div className="qty"><button onClick={()=>setQty(Math.max(1,qty-1))} aria-label="Decrease quantity"><Minus size={13}/></button><span>{qty}</span><button onClick={()=>setQty(Math.min(10,qty+1))} aria-label="Increase quantity"><Plus size={13}/></button></div><button className="button button-light" onClick={()=>add(p,color,qty)}>Add to bag · {money(p.price*qty)} <ArrowRight size={16}/></button></div>
++    {p.prototypeOnly?<div className="prototype-note"><b>Studio concept · Not available for purchase</b><span>This design is a concept listing. Final construction, materials, electrical fit and safety validation are still pending.</span></div>:<div className="buy-actions"><div className="qty"><button onClick={()=>setQty(Math.max(1,qty-1))} aria-label="Decrease quantity"><Minus size={13}/></button><span>{qty}</span><button onClick={()=>setQty(Math.min(10,qty+1))} aria-label="Increase quantity"><Plus size={13}/></button></div><button className="button button-light" onClick={()=>add(p,color,qty)}>Add to bag · {money(p.price*qty)} <ArrowRight size={16}/></button></div>}
+     <div className="delivery-points"><p><Truck/><span><b>Shipping across India</b><small>Delivery estimate confirmed with order details.</small></span></p><p><PackageCheck/><span><b>Made with intention</b><small>Made-to-order concept; production details to be confirmed.</small></span></p><p><ShieldCheck/><span><b>Carefully considered design</b><small>Electrical fit and thermal safety must be validated before release.</small></span></p></div>
+ // placeholder
+ // placeholder

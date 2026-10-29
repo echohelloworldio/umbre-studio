@@ -190,10 +190,10 @@ const studioLamps=[
    {src:"/product-images/lamp-21-hero.webp",alt:"The Nook \u2014 hero view"}
  ],
  variantImages:{
-  'Ivory + Terracotta':[{src:"/product-images/lamp-21-hero.webp",alt:"The Nook in ivory and terracotta concept"}],
-  'Espresso':[{src:"/product-images/lamp-21-hero.webp",alt:"The Nook espresso colour concept"}],
-  'Sage Green':[{src:"/product-images/lamp-21-hero.webp",alt:"The Nook sage green colour concept"}],
-  'Sand':[{src:"/product-images/lamp-21-hero.webp",alt:"The Nook sand colour concept"}]
+  'Ivory + Terracotta':[{src:"/product-images/lamp-21-ivory-terracotta.svg",alt:"The Nook in ivory and terracotta concept"}],
+  'Espresso':[{src:"/product-images/lamp-21-espresso.svg",alt:"The Nook espresso colour concept"}],
+  'Sage Green':[{src:"/product-images/lamp-21-sage.svg",alt:"The Nook sage green colour concept"}],
+  'Sand':[{src:"/product-images/lamp-21-sand.svg",alt:"The Nook sand colour concept"}]
  },
  prototypeOnly:true
  },
@@ -204,10 +204,10 @@ const studioLamps=[
    {src:"/product-images/lamp-22-hero.png",alt:"The Little Sentinel \u2014 hero view"}
  ],
  variantImages:{
-  'Espresso':[{src:"/product-images/lamp-22-hero.png",alt:"The Little Sentinel espresso colour concept"}],
-  'Terracotta':[{src:"/product-images/lamp-22-hero.png",alt:"The Little Sentinel terracotta colour concept"}],
-  'Ivory':[{src:"/product-images/lamp-22-hero.png",alt:"The Little Sentinel ivory colour concept"}],
-  'Sage':[{src:"/product-images/lamp-22-hero.png",alt:"The Little Sentinel sage colour concept"}]
+  'Espresso':[{src:"/product-images/lamp-22-espresso.svg",alt:"The Little Sentinel espresso colour concept"}],
+  'Terracotta':[{src:"/product-images/lamp-22-terracotta.svg",alt:"The Little Sentinel terracotta colour concept"}],
+  'Ivory':[{src:"/product-images/lamp-22-ivory.svg",alt:"The Little Sentinel ivory colour concept"}],
+  'Sage':[{src:"/product-images/lamp-22-sage.svg",alt:"The Little Sentinel sage colour concept"}]
  },
  prototypeOnly:true
  }
