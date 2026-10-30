@@ -16,11 +16,27 @@ const studioLamps=[
  {
  id:'lamp-02',slug:"the-arc",name:"The Arc Sculptural Table Lamp",category:"Sculptural",price:6499,tag:"Studio concept",shape:'sculptural',
  colors:["Ivory", "Espresso", "Terracotta"],dimensions:"Approx. 220 \u00d7 180 \u00d7 260 mm (preliminary)",description:"A sculptural arch-inspired table lamp with a soft architectural silhouette and warm, diffused glow. This is a design concept; final dimensions, materials and electrical safety require validation.",
- image:"/product-images/lamp-02-hero.webp",gallery:[
-   {src:"/product-images/lamp-02-hero.webp",alt:"The Arc \u2014 hero view"},
-   {src:"/product-images/lamp-02-detail.webp",alt:"The Arc \u2014 detail view"},
-   {src:"/product-images/lamp-02-colourways.webp",alt:"The Arc \u2014 colourway view"}
- ],
+    image: "/product-images/lamp-02-hero.png",
+
+    gallery: [
+      {
+        src: "/product-images/lamp-02-hero.png",
+        alt: "Lamp 2 - Front product view"
+      },
+      {
+        src: "/product-images/lamp-02-lifestyle.png",
+        alt: "Lamp 2 - Lifestyle setting"
+      },
+      {
+        src: "/product-images/lamp-02-angle.png",
+        alt: "Lamp 2 - Alternate angle"
+      },
+      {
+        src: "/product-images/lamp-02-background.png",
+        alt: "Lamp 2 - Different background"
+      }
+    ],
+    
  prototypeOnly:true
  },
  {
